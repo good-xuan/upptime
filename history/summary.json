@@ -4,7 +4,7 @@
     "url": "https://tiankong2024.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tiankong2024.serv00.net.ico",
     "slug": "s13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 846,
     "timeMonth": 846,
     "timeYear": 846,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "Google",
