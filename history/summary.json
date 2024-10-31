@@ -4,19 +4,19 @@
     "url": "https://tiankong2024.serv00.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tiankong2024.serv00.net.ico",
     "slug": "s13",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 846,
-    "timeWeek": 846,
-    "timeMonth": 846,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "97.69%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "97.69%",
+    "time": 816,
+    "timeDay": 816,
+    "timeWeek": 816,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2024-10-31": 0
+      "2024-10-31": 24
     }
   },
   {
